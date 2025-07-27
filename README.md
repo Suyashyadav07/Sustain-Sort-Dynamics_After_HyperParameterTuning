@@ -407,7 +407,7 @@ def classify_waste(image_path):
   author={Suyash Yadav},
   year={2025},
   publisher={GitHub},
-  url={https://github.com/parshwa913/Sustain-Sort-Dynamics},
+  url={https://github.com/Suyashyadav07/Sustain-Sort-Dynamics_After_HyperParameterTuning},
   note={Best accuracy: 97.78% with MobileNetV2}
 }
 ```
