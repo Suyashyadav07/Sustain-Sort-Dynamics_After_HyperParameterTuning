@@ -404,7 +404,7 @@ def classify_waste(image_path):
 ```bibtex
 @misc{sustain-sort-dynamics-2025,
   title={SustainSort-Dynamics: Smart Waste Classification Using Deep Learning},
-  author={Parshwa Herwade},
+  author={Suyash Yadav},
   year={2025},
   publisher={GitHub},
   url={https://github.com/parshwa913/Sustain-Sort-Dynamics},
